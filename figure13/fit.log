@@ -1,0 +1,290 @@
+
+
+*******************************************************************************
+Wed Nov 15 11:15:01 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_0001/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)):($4/$2)
+        format = x:z
+        x range restricted to [1.15000 : *]
+        #datapoints = 3885
+        residuals are weighted equally (unit weight)
+
+function used for fitting: N1(x)
+	N1(x)=1.0/3.0-16.0/9.0*Eta1/x
+fitted parameters initialized with current variable values
+
+   2 6.2298198347e-04  -3.42e-05  2.08e-04    7.968733e-02
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.000622982
+rel. change during last iteration : -3.41624e-10
+
+degrees of freedom    (FIT_NDF)                        : 3884
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000400496
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.60397e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+Eta1            = 0.0796873        +/- 2.454e-05    (0.0308%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:01 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_0005/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)):($4/$2)
+        format = x:z
+        x range restricted to [1.15000 : *]
+        #datapoints = 3885
+        residuals are weighted equally (unit weight)
+
+function used for fitting: N2(x)
+	N2(x)=1.0/3.0-16.0/9.0*Eta2/x
+fitted parameters initialized with current variable values
+
+   2 6.1872789432e-04  -8.73e-05  2.08e-04    7.975257e-02
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.000618728
+rel. change during last iteration : -8.7254e-10
+
+degrees of freedom    (FIT_NDF)                        : 3884
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000399126
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.59302e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+Eta2            = 0.0797526        +/- 2.448e-05    (0.03069%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:01 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_001/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)):($4/$2)
+        format = x:z
+        x range restricted to [1.15000 : *]
+        #datapoints = 3886
+        residuals are weighted equally (unit weight)
+
+function used for fitting: N3(x)
+	N3(x)=1.0/3.0-16.0/9.0*Eta3/x
+fitted parameters initialized with current variable values
+
+   2 6.4327195351e-04  -3.49e-04  2.09e-04    7.993423e-02
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.000643272
+rel. change during last iteration : -3.49472e-09
+
+degrees of freedom    (FIT_NDF)                        : 3885
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000406913
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.65578e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+Eta3            = 0.0799342        +/- 2.491e-05    (0.03116%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:01 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_0015/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)):($4/$2)
+        format = x:z
+        x range restricted to [1.15000 : *]
+        #datapoints = 3886
+        residuals are weighted equally (unit weight)
+
+function used for fitting: N4(x)
+	N4(x)=1.0/3.0-16.0/9.0*Eta4/x
+fitted parameters initialized with current variable values
+
+   2 6.1497908461e-04  -1.75e-03  2.07e-04    8.036259e-02
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.000614979
+rel. change during last iteration : -1.75205e-08
+
+degrees of freedom    (FIT_NDF)                        : 3885
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000397864
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.58296e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+Eta4            = 0.0803626        +/- 2.448e-05    (0.03046%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:02 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_002/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)):($4/$2)
+        format = x:z
+        x range restricted to [1.15000 : *]
+        #datapoints = 3888
+        residuals are weighted equally (unit weight)
+
+function used for fitting: N5(x)
+	N5(x)=1.0/3.0-16.0/9.0*Eta5/x
+fitted parameters initialized with current variable values
+
+   2 6.3367946311e-04  -7.18e-03  2.07e-04    8.119495e-02
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.000633679
+rel. change during last iteration : -7.18246e-08
+
+degrees of freedom    (FIT_NDF)                        : 3887
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000403764
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.63025e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+Eta5            = 0.081195         +/- 2.489e-05    (0.03066%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:02 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_0001/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)/(4.0*pi*1.0/4.0/pi)):($2/1.31292)
+        format = x:z
+        x range restricted to [* : 0.0200000]
+        #datapoints = 65
+        residuals are weighted equally (unit weight)
+
+function used for fitting: E1(x)
+	E1(x)=1.0/CInfty1*x**(4.0/9.0)
+fitted parameters initialized with current variable values
+
+   3 4.7796952433e-06  -4.02e-04  1.47e-04    8.764293e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.7797e-06
+rel. change during last iteration : -4.01869e-09
+
+degrees of freedom    (FIT_NDF)                        : 64
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000273281
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.46827e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+CInfty1         = 0.876429         +/- 0.0002036    (0.02323%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:02 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_0005/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)/(4.0*pi*1.0/4.0/pi)):($2/1.30085)
+        format = x:z
+        x range restricted to [* : 0.0200000]
+        #datapoints = 65
+        residuals are weighted equally (unit weight)
+
+function used for fitting: E2(x)
+	E2(x)=1.0/CInfty2*x**(4.0/9.0)
+fitted parameters initialized with current variable values
+
+   3 4.7099810017e-06  -1.16e-04  1.44e-04    8.771202e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.70998e-06
+rel. change during last iteration : -1.16229e-09
+
+degrees of freedom    (FIT_NDF)                        : 64
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000271281
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.35935e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+CInfty2         = 0.87712          +/- 0.0002013    (0.02295%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:02 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_001/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)/(4.0*pi*1.0/4.0/pi)):($2/1.26058)
+        format = x:z
+        x range restricted to [* : 0.0200000]
+        #datapoints = 63
+        residuals are weighted equally (unit weight)
+
+function used for fitting: E3(x)
+	E3(x)=1.0/CInfty3*x**(4.0/9.0)
+fitted parameters initialized with current variable values
+
+   3 3.6629454610e-06  -4.70e-04  1.42e-04    8.792698e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.66295e-06
+rel. change during last iteration : -4.69914e-09
+
+degrees of freedom    (FIT_NDF)                        : 62
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000243063
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.90798e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+CInfty3         = 0.87927          +/- 0.0001831    (0.02083%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:02 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_0015/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)/(4.0*pi*1.0/4.0/pi)):($2/1.18095)
+        format = x:z
+        x range restricted to [* : 0.0200000]
+        #datapoints = 61
+        residuals are weighted equally (unit weight)
+
+function used for fitting: E4(x)
+	E4(x)=1.0/CInfty4*x**(4.0/9.0)
+fitted parameters initialized with current variable values
+
+   3 2.6212775502e-06  -2.10e-01  1.43e-04    8.837421e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.62128e-06
+rel. change during last iteration : -2.09844e-06
+
+degrees of freedom    (FIT_NDF)                        : 60
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000209017
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.3688e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+CInfty4         = 0.883742         +/- 0.0001575    (0.01782%)
+
+
+*******************************************************************************
+Wed Nov 15 11:15:02 2023
+
+
+FIT:    data read from 'VARYING_DENSITIES/BACKGROUND_CONFORMAL_RTA_002/BACKGROUND_EVOLUTION.txt' u (($8)**(2.0/3.0)*(Neff*$2)**(1.0/4.0)/(4.0*pi*1.0/4.0/pi)):($2/1.014)
+        format = x:z
+        x range restricted to [* : 0.0200000]
+        #datapoints = 55
+        residuals are weighted equally (unit weight)
+
+function used for fitting: E5(x)
+	E5(x)=1.0/CInfty5*x**(4.0/9.0)
+fitted parameters initialized with current variable values
+
+   3 8.6021349153e-07  -4.53e-01  1.50e-04    8.934884e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.60213e-07
+rel. change during last iteration : -4.52945e-06
+
+degrees of freedom    (FIT_NDF)                        : 54
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000126214
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.59299e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+CInfty5         = 0.893488         +/- 9.643e-05    (0.01079%)

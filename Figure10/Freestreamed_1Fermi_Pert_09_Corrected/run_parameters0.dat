@@ -1,0 +1,56 @@
+trento_input_dir /projects/jnorhos/pcarzon/ICCINGResults/GreensFunction/PbPb0_K1.6_CS7.0/0/
+output_dir /projects/jnorhos/pcarzon/ICCINGResults/GreensFunction/PbPb0_K1.6_CS7.0/0/
+input_type 1
+output_type 2
+seed_ 1667493279
+test_ 
+sub_test 
+density_profile_type Gaussian
+greens_evolution 1
+
+event_label 
+first_event 0
+last_event 500
+repeat_event 0
+t_a 0
+t_b 1
+
+kappa_ 1
+rad_ 0.5
+qrad_ 0.5
+lambda_ 1
+perturbative_regime 0.9
+
+dipole_model GBW
+alpha_s 0.3
+alpha_min 0.01
+r_max 1
+lambda_bym 0.001
+up_chem 0
+down_chem 0
+strange_chem 0
+charm_chem 0
+
+a_trento 119
+s_chop 1e-19
+up_chop 0
+down_chop 0
+strange_chop 0
+charm_chop 0
+
+background_attractor_file /projects/jnorhos/pcarzon/ICCING_Devolpment/Input/BackgroundAttractorRTA.txt
+greens_functions_file /projects/jnorhos/pcarzon/ICCING_Devolpment/Greens_Function/GreensFunctionsRTA_New.txt
+background_points 10146
+greens_functions_points 128
+greens_functions_chuncks 400
+c_infinity 0.884609
+eta_over_s 0.0795775
+omega_tilde -1
+tau_hydro 1.1
+grid_max 12
+grid_step 0.06
+tau_0 0.1
+e_thresh 0.25
+freezeout_thresh 0
+eccentricity_type COM
+charge_type BSQ
